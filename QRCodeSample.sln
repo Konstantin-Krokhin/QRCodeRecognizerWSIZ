@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeSample", "QRCodeSample\QRCodeSample.csproj", "{2DDBDAFE-0253-484C-9050-4CE74A9B1503}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3738A5EC-7328-40D4-9A6E-903C1FCA0656}"
+	ProjectSection(SolutionItems) = preProject
+		QRCodeSample\images\Banner.png = QRCodeSample\images\Banner.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDBDAFE-0253-484C-9050-4CE74A9B1503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDBDAFE-0253-484C-9050-4CE74A9B1503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDBDAFE-0253-484C-9050-4CE74A9B1503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDBDAFE-0253-484C-9050-4CE74A9B1503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5E1A18-FD8D-4357-88AF-BCAC5F123DED}
+	EndGlobalSection
+EndGlobal
